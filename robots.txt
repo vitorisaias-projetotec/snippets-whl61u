@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vitorisaias-projetotec.github.io/snippets-whl61u/sitemap.xml
